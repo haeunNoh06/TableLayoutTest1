@@ -26,38 +26,37 @@
         <TableRow>
             <Button
                 android:id="@+id/btn0"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
-                android:backgroundTint="@color/gray"
+                android:layout_marginRight="7dp"
                 android:text="0"
                 />
             <Button
                 android:id="@+id/btn1"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="1"
                 />
             <Button
                 android:id="@+id/btn2"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="2"
                 />
             <Button
                 android:id="@+id/btn3"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="3"
                 />
             <Button
                 android:id="@+id/btn4"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="4"
                 />
 
@@ -65,37 +64,37 @@
         <TableRow>
             <Button
                 android:id="@+id/btn5"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="5"
                 />
             <Button
                 android:id="@+id/btn6"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="6"
                 />
             <Button
                 android:id="@+id/btn7"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="7"
                 />
             <Button
                 android:id="@+id/btn8"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="8"
                 />
             <Button
                 android:id="@+id/btn9"
-                android:layout_width="71.5dp"
+                android:layout_width="70dp"
                 android:layout_height="60dp"
-                android:layout_marginRight="10dp"
+                android:layout_marginRight="7dp"
                 android:text="9"
                 />
 
